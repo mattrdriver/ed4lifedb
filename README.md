@@ -19,6 +19,7 @@ The application was written in Visual Studio Code. It’s recommended that you a
 1.	Click on the clone git repository button
 
  ![image](https://user-images.githubusercontent.com/91662409/233860849-553d3db6-5ae6-463b-bbd6-9aee0bb052c2.png)
+ 
 2.	Link your GitHub account with VS Code
 3.	Press Ctrl + Shift + P and enter the link for the GitHub repository
 
