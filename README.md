@@ -7,8 +7,11 @@ visual studio code python and sqlite database for my ed4life charity dissertatio
  
 Things to install before getting started:
 https://git-scm.com/download
+
 https://www.python.org/downloads/
+
 https://code.visualstudio.com/download
+
 (Also install the “Python” and “GitHub Pull Requests and Issues” extensions by clicking on the extensions button on the left hand side of the screen in Visual Studio Code shown in the screen shots above)
 The application was written in Visual Studio Code. It’s recommended that you also use Visual Studio Code.
 
