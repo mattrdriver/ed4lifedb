@@ -6,6 +6,7 @@ visual studio code python and sqlite database for my ed4life charity dissertatio
 ![image](https://user-images.githubusercontent.com/91662409/233860838-5ef74dcf-f77e-491c-9ded-1a54d34d9100.png)
  
 Things to install before getting started:
+
 https://git-scm.com/download
 
 https://www.python.org/downloads/
